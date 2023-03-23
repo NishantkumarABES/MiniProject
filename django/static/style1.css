@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    background-color: rgb(23, 101, 202);
+    text-align: center;
+    color: white;
+    height: 125px;
+}
+h1{
+    padding: 25px 0;
+    font-size: 50px;
+}
+.content{
+    margin: 90px;
+}
+p,h3{
+    margin-left: 20px;
+    
+}
+ul{
+    margin-left: 60px;
+}
+.item{
+    margin-left:20px;
+}
+p{
+    padding: 3px;
+}

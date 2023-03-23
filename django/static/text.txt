@@ -1,0 +1,1 @@
+my name is nishant kumar . this is a static file.
